@@ -162,7 +162,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #8080FF;
+  color: #4040FF;
   -webkit-transition:color 500ms ease-in; 
   -o-transition:color 500ms ease-in; 
   transition:color 500ms ease-in; 
@@ -227,7 +227,7 @@ header {
   }
 
 .count {
-  background:  #8080FF;
+  background:  #4040FF;
   position: absolute;
   top: 25px;
   left: 30px;    
@@ -284,7 +284,7 @@ nav ul li {
 }
 
 nav a {
-  color: #8080FF;
+  color: #4040FF;
 }
 .hero-image-subtitle {
   font-family: 'Playfair Display', 'Times New Roman', Times, serif;
@@ -378,7 +378,7 @@ nav a {
 }
 
 .most-loved h3 {
-    color: #8080FF;
+    color: #4040FF;
 }
 
 .most-loved p {
