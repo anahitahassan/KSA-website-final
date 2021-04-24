@@ -1001,7 +1001,7 @@ footer {
         font-size: 1rem;
         font-family: 'Raleway', Arial, Helvetica, sans-serif;
     } 
-
+/*
     .main-carousel {
         margin-bottom: 75px;
         padding-bottom: 50px;
@@ -1010,7 +1010,7 @@ footer {
     .main-carousel img {
         height: 30vw;
         margin: 0 70px;
-    }
+    }*/
 
     footer {
         display: -webkit-box;
