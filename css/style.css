@@ -1105,7 +1105,7 @@ footer {
 }
 
 @media all and (min-width: 1240px) {
-   
+   /*
     .hero-image {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -1120,16 +1120,16 @@ footer {
        -webkit-box-align: center;
            -ms-flex-align: center;
                align-items: center;
-       height: 50vw;/*
+       height: 50vw;
        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(../assets/images/banner.jpg);
        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../assets/images/banner.jpg);
        background: -o-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../assets/images/banner.jpg);
        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../assets/images/banner.jpg);
-       */background-repeat: repeat, no-repeat, no-repeat;
+       background-repeat: repeat, no-repeat, no-repeat;
        background-position-x: 50%;
        background-position-y: 0, 1.5em;
        background-size: cover, contain, cover;
-    }   
+    }   */
 
     .hero-image-title {
         font-size: 20px;
